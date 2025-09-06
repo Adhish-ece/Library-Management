@@ -25,5 +25,5 @@ It uses **file handling** to store and manage books in a binary file (`Book.dat`
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Library-Management-System-in-C.git
-   cd Library-Management-System-in-C
+   https://github.com/Adhish-ece/Library-Management.git
+   cd Library-Management
