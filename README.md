@@ -27,3 +27,5 @@ It uses **file handling** to store and manage books in a binary file (`Book.dat`
    ```bash
    https://github.com/Adhish-ece/Library-Management.git
    cd Library-Management
+   gcc main.c
+   ./a.out
